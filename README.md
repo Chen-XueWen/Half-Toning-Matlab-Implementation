@@ -1,5 +1,6 @@
 # Half-Toning-Matlab-Implementation guide
 Dithering & Error Diffusion implemented by Chen Xue Wen
+
 Please do not copy and paste the code, try to understand and implement it yourselves.
 
 This is purely for reference to help people to understand better.
