@@ -1,3 +1,5 @@
+%Code by : Chen Xue Wen
+
 %FloydED
 clc;clear all;close all;
 INPUT = 'lena.bmp';
