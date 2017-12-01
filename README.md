@@ -51,6 +51,10 @@ E.g
 
 ## Third Step: Comparison
 
+![Alt text](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/Theory.jpg)
 
+## Outcome
+
+![Alt text](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/BayerDithering.bmp)
 
 
