@@ -1,14 +1,13 @@
 # Half-Toning-Matlab-Implementation guide
-Dithering & amp
-Error Diffusion implemented by Chen Xue Wen
+Dithering & Error Diffusion implemented by Chen Xue Wen
 Please do not copy and paste the code, try to understand and implement it yourselves.
 
 This is purely for reference to help people to understand better.
 
 # Dithering
+
 ## First Step: Choose Your Matrix
 
-E.g
 
 ### BayerFive:
 
