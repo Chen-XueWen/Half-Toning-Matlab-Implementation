@@ -9,8 +9,7 @@ Guide by Chen Xue Wen.
 
 # Dithering
 
-## First Step: Choose Your Matrix
-
+ 
 
 ### BayerFive:
 
@@ -59,4 +58,8 @@ Guide by Chen Xue Wen.
 
 ![Alt text](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/BayerDithering.bmp)
 
+# Error Diffusion
 
+### Floyd - Steinberg Implementation:
+
+![Alt text]https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/ErrorDiffusionGuide.jpg
