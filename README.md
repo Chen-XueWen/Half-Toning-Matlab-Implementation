@@ -5,7 +5,7 @@ Please do not copy and paste the code, try to understand and implement it yourse
 
 This is purely for reference to help people to understand better.
 
-### HalfToning
+# Dithering
 ## First Step: Choose Your Matrix
 
 E.g
