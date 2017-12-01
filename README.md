@@ -5,6 +5,8 @@ Please do not copy and paste the code, try to understand and implement it yourse
 
 This is purely for reference to help people to understand better.
 
+Guide by Chen Xue Wen.
+
 # Dithering
 
 ## First Step: Choose Your Matrix
