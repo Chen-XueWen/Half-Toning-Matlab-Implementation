@@ -1,3 +1,5 @@
+%Code by : Chen Xue Wen
+
 %Stucki
 clc;clear all;close all;
 INPUT = 'lena.bmp';
