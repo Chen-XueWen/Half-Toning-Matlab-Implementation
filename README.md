@@ -7,9 +7,10 @@ This is purely for reference to help people to understand better.
 
 Guide by Chen Xue Wen.
 
-# Dithering
+# Short Introduction
+A Printer can only print binary values: either print or not print. Thus this is where half-toning comes in handy. 
 
- 
+# Dithering
 
 ### BayerFive:
 
@@ -62,4 +63,8 @@ Guide by Chen Xue Wen.
 
 ### Floyd - Steinberg Implementation:
 
-![Alt text]https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/ErrorDiffusionGuide.jpg
+![Alt text](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/ErrorDiffusionGuide.jpg)
+
+## outcome
+
+![Alt text](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation/blob/master/lena_Floyd.bmp)
