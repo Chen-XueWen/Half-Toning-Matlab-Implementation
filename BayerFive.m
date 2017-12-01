@@ -1,4 +1,4 @@
-#Code by : Chen Xue Wen
+%Code by : Chen Xue Wen
 
 clc;clear all;close all;
 INPUT = 'lena.bmp';
